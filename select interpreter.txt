@@ -1,0 +1,2 @@
+To select a specific environment, use the 
+Python: Select Interpreter command from the Command Palette (Ctrl+Shift+P).
